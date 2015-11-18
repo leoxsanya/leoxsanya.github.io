@@ -1,0 +1,48 @@
+.menu {
+    border: 1px dashed gray;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+}
+ 
+.main {
+    border: 1px dashed gray;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    text-align: center;
+}
+ 
+.display {
+    border: 1px dashed gray;
+    width: 800px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+ 
+input {
+    margin: 2px;
+}
+
+h1 {
+	color: gray;
+	text-align: center;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+}
+
+.aaa{
+	text-align: center;
+	    margin-left: auto;
+    margin-right: auto;
+}
